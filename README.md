@@ -1,9 +1,12 @@
 # movies
 
+This is a FLutter project
+
 Faltantes
 
 - Almacenamiento offline
 - Splash Screen
+- APK
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
